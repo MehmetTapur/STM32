@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;002_GPIO_Button/Core/Src/ble.h&apos;" deleteContents="false" description="Delete resource &apos;002_GPIO_Button/Core/Src/ble.h&apos;" element1="/002_GPIO_Button/Core/Src/ble.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1658830392434"/>
-</session>
