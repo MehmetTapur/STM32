@@ -1,0 +1,51 @@
+!SESSION 2022-07-17 23:30:26.553 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=tr_TR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\workspace\STM32CubeIDE\STM32
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-17 23:30:30.582
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-17 23:30:30.646
+!MESSAGE Log4j initialized with config file C:\workspace\STM32CubeIDE\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-17 23:30:32.734
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-17 23:38:28.779
+!MESSAGE Indexed '001_GPIO_led_blink' (21 sources, 81 headers) in 3.26 sec: 4,387 declarations; 18,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0088%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-18 00:08:13.493
+!MESSAGE Indexed '002_GPIO_Button' (21 sources, 81 headers) in 1.49 sec: 4,387 declarations; 18,251 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0088%)
+!SESSION 2022-07-26 13:10:50.649 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=tr_TR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-26 13:11:00.420
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-26 13:11:00.501
+!MESSAGE Log4j initialized with config file C:\workspace\STM32CubeIDE\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-26 13:11:07.972
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-07-30 17:18:16.891 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=tr_TR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-30 17:18:25.559
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-30 17:18:25.626
+!MESSAGE Log4j initialized with config file C:\workspace\STM32CubeIDE\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-30 17:18:30.954
+!MESSAGE Started RMI Server, listening on port 41337
