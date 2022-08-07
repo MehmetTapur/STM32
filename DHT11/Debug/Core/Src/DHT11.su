@@ -1,0 +1,6 @@
+DHT11.c:21:6:StartSignal	16	static
+DHT11.c:35:9:GetResponse	16	static
+DHT11.c:51:6:GetResults	40	static
+DHT11.c:92:13:ControlTruth	24	static
+DHT11.c:111:13:setInput	40	static
+DHT11.c:120:13:setOutput	40	static

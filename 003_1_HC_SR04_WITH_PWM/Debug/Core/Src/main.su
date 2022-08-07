@@ -1,0 +1,11 @@
+main.c:78:5:main	8	static
+main.c:162:6:SystemClock_Config	88	static
+main.c:206:13:MX_TIM1_Init	32	static
+main.c:252:13:MX_TIM2_Init	64	static
+main.c:311:13:MX_TIM4_Init	64	static
+main.c:370:13:MX_GPIO_Init	48	static
+main.c:399:6:usDelay	16	static
+main.c:407:10:readHCSR04	16	static
+main.c:432:6:buzzer	16	static
+main.c:440:6:PWM_period	16	static
+main.c:451:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+GPIO.c:3:6:GPIO_Init	32	static
+GPIO.c:60:6:GPIO_WritePin	16	static
+GPIO.c:75:17:GPIO_ReadPin	24	static
+GPIO.c:85:6:GPIO_LockPin	24	static
+GPIO.c:96:6:GPIO_TogglePin	24	static
